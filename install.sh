@@ -40,6 +40,6 @@ curl -L -o conduit https://github.com/ssmirr/conduit/releases/download/87cc1a3/c
 chmod +x conduit
 
 echo "[+] Starting Conduit..."
-./conduit start -m 500 -d 40
+./conduit start -m 500 -b 40
 EOF
 
