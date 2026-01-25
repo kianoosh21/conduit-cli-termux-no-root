@@ -13,7 +13,7 @@ Open the Termux app and paste this command, then press Enter:
 ## 3) Wait for it to finish
 Wait 5–10 minutes until you see:
 
-    [OK] Connected to Psiphon network
+[OK] Connected to Psiphon network
 
 ## 4) You’re done
 Once connected, you can minimize Termux or lock your phone.
