@@ -19,12 +19,7 @@ Wait 5–10 minutes until you see:
 Once connected, you can minimize Termux or lock your phone.
 Congratulations — you are now serving your internet with ~500 people.
 
-## RAM notes
-- 4GB RAM: 500 users is totally fine
-- 8GB+ RAM: you can increase to 1000 users if you want
-
-## Optional: Increase to 1000 users
-Press Ctrl + C, then run:
-
-    ./conduit start -m 1000 -d 40
+## CPU notes
+- 4Core CPU: 500 users is totally fine
+- 8Core CPU: you can increase to 1000 users if you want
 
